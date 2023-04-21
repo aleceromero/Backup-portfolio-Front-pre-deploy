@@ -10,7 +10,7 @@ El portfolio consiste en una página que muestra datos personales, experiencias 
 En este código se encuentra la interfaz gráfica la cual será desplegada en Firebase.
 
 ### Portfolio
-Para ver su despliegue online ingresar aquí:
+Para ver su despliegue online ingresar [aquí](https://alejandra-romero-portfolio.web.app/)
 
 Para ver el funcionamiento en su etapa de modo local (localhost:4200) ver el siguiente [video](https://drive.google.com/file/d/1s99YAPshf8yvAEDeWiEaCGQN6TLA4ipO)
 
